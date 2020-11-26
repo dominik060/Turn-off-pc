@@ -2,4 +2,4 @@
 This program will turn off/shut down pc, where is this programe launched.
 
 # Download
-You can download python script or [exe](http://bezpecne.jednoduse.cz/projekty)
+You can download python script on github or [exe](http://bezpecne.jednoduse.cz/projekty) on my websit.
